@@ -1,5 +1,6 @@
 # Ignore data - must not be public per Coursera
 project2data.csv
+Stats-Project-2-Data-Dictionary.docx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
