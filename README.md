@@ -1,4 +1,4 @@
-# Question 2
+# University of Chicago Group Project - Question 2
 
 ## Project set-up
 
